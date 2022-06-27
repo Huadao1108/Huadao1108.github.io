@@ -6,7 +6,7 @@
   <link href="http://www.jayha.top/atom.xml" rel="self"/>
   
   <link href="http://www.jayha.top/"/>
-  <updated>2022-06-27T10:49:45.858Z</updated>
+  <updated>2022-06-27T11:01:07.657Z</updated>
   <id>http://www.jayha.top/</id>
   
   <author>
@@ -21,8 +21,23 @@
     <link href="http://www.jayha.top/2022/06/27/DDNS%E8%BF%9C%E7%A8%8B%E8%AE%BF%E9%97%AE%E5%86%85%E7%BD%91%E8%AE%BE%E5%A4%87/"/>
     <id>http://www.jayha.top/2022/06/27/DDNS%E8%BF%9C%E7%A8%8B%E8%AE%BF%E9%97%AE%E5%86%85%E7%BD%91%E8%AE%BE%E5%A4%87/</id>
     <published>2022-06-27T10:35:32.000Z</published>
-    <updated>2022-06-27T10:49:45.858Z</updated>
+    <updated>2022-06-27T11:01:07.657Z</updated>
     
+    <content type="html"><![CDATA[<!DOCTYPE html><html lang="en"><head>    <title>DDNS远程访问内网设备</title></head><body>    <h1>DDNS远程访问内网设备</h1>    <p>        使用Openwrt的插件DDNS插件加上socat转发端口可以实现远程访问内网设备    </p></body></html>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+    &lt;title&gt;DDNS远程访问内网设备&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;h1&gt;DDNS远程访问内网设备&lt;/h1&gt;
+    &lt;p&gt;
+        使用Openwrt的插</summary>
+      
     
     
     
