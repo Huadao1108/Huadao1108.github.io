@@ -6,7 +6,7 @@
   <link href="http://www.jayha.top/atom.xml" rel="self"/>
   
   <link href="http://www.jayha.top/"/>
-  <updated>2022-06-27T11:11:15.966Z</updated>
+  <updated>2022-06-27T11:17:02.243Z</updated>
   <id>http://www.jayha.top/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://www.jayha.top/2022/06/27/DDNS%E8%BF%9C%E7%A8%8B%E8%AE%BF%E9%97%AE%E5%86%85%E7%BD%91%E8%AE%BE%E5%A4%87/"/>
     <id>http://www.jayha.top/2022/06/27/DDNS%E8%BF%9C%E7%A8%8B%E8%AE%BF%E9%97%AE%E5%86%85%E7%BD%91%E8%AE%BE%E5%A4%87/</id>
     <published>2022-06-27T10:35:32.000Z</published>
-    <updated>2022-06-27T11:11:15.966Z</updated>
+    <updated>2022-06-27T11:17:02.243Z</updated>
     
-    <content type="html"><![CDATA[<!DOCTYPE html><html lang="en"><head>    <meta charset="UTF-8">    <meta http-equiv="X-UA-Compatible" content="IE=edge">    <meta name="viewport" content="width=device-width, initial-scale=1.0">    <title>Document</title></head><body>    <h1>DDNS远程访问内网设备</h1>    <p>        <ul>            <oi style="color: lightgreen;">使用Openwrt的插件DDNS加上socat转发端口可以实现远程访问内网设备</oi>            <oi style="color: lightgreen;">本项目需要拥有公网IPV6才可实现</oi>            <ol style="color: lightgreen;">内网设备基于Openwrt下，通过将其原本的端口进行转发，使其不受运营商端口限制，并且能通过域名加端口的形式访问</ol>            <ol style="color: lightgreen;"></ol>        </ul>    </p></body></html>]]></content>
+    <content type="html"><![CDATA[<!DOCTYPE html><html lang="en"><head>    <meta charset="UTF-8">    <meta http-equiv="X-UA-Compatible" content="IE=edge">    <meta name="viewport" content="width=device-width, initial-scale=1.0">    <title>Document</title>    <style>        p ul{            font-size: 22px;            padding-bottom: 3px;        }    </style></head><body>    <h1>DDNS远程访问内网设备</h1>    <p>        <ul>            <oi style="color: greenyellow;">使用Openwrt的插件DDNS加上socat转发端口可以实现远程访问内网设备</oi>            <br />            <oi style="color: greenyellow;">本项目需要拥有公网IPV6才可实现</oi>            <br />            <ol style="color: greenyellow;">内网设备基于Openwrt下，通过将其原本的端口进行转发，使其不受运营商端口限制，并且能通过域名加端口的形式访问</ol>            <br />            <ol style="color: greenyellow;"></ol>        </ul>    </p></body></html>]]></content>
     
     
       
